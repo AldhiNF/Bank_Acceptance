@@ -1,0 +1,67 @@
+{
+  "num_cols": [
+    "age",
+    "campaign",
+    "pdays",
+    "previous",
+    "emp.var.rate",
+    "cons.price.idx",
+    "cons.conf.idx",
+    "euribor3m",
+    "nr.employed"
+  ],
+  "cat_cols": [
+    "job",
+    "marital",
+    "education",
+    "default",
+    "housing",
+    "loan",
+    "contact",
+    "month",
+    "day_of_week",
+    "poutcome"
+  ],
+  "month_order": [
+    "jan",
+    "feb",
+    "mar",
+    "apr",
+    "may",
+    "jun",
+    "jul",
+    "aug",
+    "sep",
+    "oct",
+    "nov",
+    "dec"
+  ],
+  "dow_order": [
+    "mon",
+    "tue",
+    "wed",
+    "thu",
+    "fri"
+  ],
+  "defaults": {
+    "age": 40,
+    "campaign": 2,
+    "pdays": 999,
+    "previous": 0,
+    "emp.var.rate": 1.1,
+    "cons.price.idx": 93.0,
+    "cons.conf.idx": -40.0,
+    "euribor3m": 4.8,
+    "nr.employed": 5200,
+    "job": "admin.",
+    "marital": "married",
+    "education": "university.degree",
+    "default": "no",
+    "housing": "yes",
+    "loan": "no",
+    "contact": "cellular",
+    "month": "may",
+    "day_of_week": "thu",
+    "poutcome": "nonexistent"
+  }
+}
