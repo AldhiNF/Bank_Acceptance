@@ -24,7 +24,7 @@ Melalui proyek ini, dilakukan analisis mendalam untuk menjawab pertanyaan:
 ---
 
 ## 📂 Struktur Proyek
-.
+```
 ├── asssets/
 │   ├── image.jpg                                                                      # hasil sebelum & setelah tuning model
 │   └── imagee.png                                                                     # screenshot tableu
@@ -49,6 +49,7 @@ Melalui proyek ini, dilakukan analisis mendalam untuk menjawab pertanyaan:
 │   └── Final_Project_TeamBeta_Presentation.pptx                                       # slide presentasi
 ├── README.md
 └── requirements.txt
+```
 
 
 ---
