@@ -93,4 +93,6 @@ Dashboard memberikan gambaran strategis tentang di mana kampanye lebih efektif d
 Aplikasi prediksi dibuat menggunakan **Streamlit**.  
 Pengguna dapat memasukkan informasi calon nasabah dan mendapatkan prediksi apakah mereka akan menerima tawaran deposito.
 
+![Screenshot Streamlit](assets/streamlit.png)
+
 ### 🔗 Link Streamlit : [Streamlit](https://bankcampaignfinalproject.streamlit.app/)
